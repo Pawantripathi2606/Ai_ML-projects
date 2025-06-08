@@ -114,3 +114,5 @@ Before training a model, the following preprocessing steps are recommended:
 ---
 
 
+![image](https://github.com/user-attachments/assets/dcd4a9ed-bf05-490e-9025-2831c0bc1f4b)
+
