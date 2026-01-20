@@ -13,7 +13,7 @@ This repository serves as a portfolio of AI and ML projects built using a variet
 - Deep Learning
 - Model Deployment & Optimization
 
-Each project is self-contained with clear documentation and is structured for easy understanding and reproduction
+Each project is self-contained with clear documentation and is structured for easy understanding and reproduction.
 
 ---
 
