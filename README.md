@@ -8,7 +8,7 @@ Welcome to the **AI_ML_Projects** repository! This repo is a curated collection 
 
 This repository serves as a portfolio of AI and ML projects built using a variety of techniques and tools such as:
 - Supervised & Unsupervised Learning
-- Natural Language Processing (NLP)
+-. Natural Language Processing (NLP)
 - Computer Vision
 - Deep Learning
 - Model Deployment & Optimization
